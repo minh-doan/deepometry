@@ -1,3 +1,6 @@
+# Update August 05,2017:
+Please visit: http://github.com/broadinstitute/deepometry for the updated version of deepometry. This example page is obsolete.
+
 # deepometry
 A complete open-source workflow to allow a non-expert to use deep learning algorithms to analyze bioimaging data of single cells. The workflow was primarily built to analyze .CIF output of an Imaging Flow Cytometer, it was later generalized to analyze any imagery data of single cells, i.e. accepting .TIF images of identified objects.
 
